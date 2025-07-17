@@ -1,3 +1,43 @@
+/*
+java_S2A1_DataTypesAndVariable
+
+- You are designing a basic Library Management System for a small community library. The system needs to store and display information about books, library members, and borrowing status.
+
+As a Java developer, your task is to declare and initialize variables using appropriate data types to represent the following real-world information:
+
+Book Details
+
+Title of the book
+
+Author’s name
+
+Year of publication
+
+Price of the book
+
+Whether the book is currently available or not
+
+Member Details
+
+Name of the member
+
+Member ID number
+
+Type of membership (Adult, Child, or Senior represented by characters A, C, S)
+
+Borrowing Status
+
+Number of days the book has been borrowed
+
+Fine per extra day (after 3 days free)
+
+Total fine to be paid
+
+ Task:
+Write a Java program to declare variables using correct data types for each piece of information. Initialize these variables with sample data and print the details in a well-formatted output.
+
+ */
+
 package Practice;
 
 public class Datatypes {
