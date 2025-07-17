@@ -1,3 +1,6 @@
+//You are developing a program for a sports day event where two athletes participated in a race. The school wants to know who completed the race in less time so they can declare the winner.
+//Your task is to write a program that:Takes the race completion time (in seconds) for both athletes as input Compares the times using an if-else statement Displays who completed the race faster or if it’s a tie
+
 package Practice;
 
 public class Statement1 {
