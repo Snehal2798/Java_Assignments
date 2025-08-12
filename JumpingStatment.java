@@ -1,3 +1,11 @@
+/*
+- You are building a basic game system where a player completes levels from 1 to 10.
+
+The player gets eliminated at level 6 (we'll use break here to stop the game).
+
+If the player skips level 3 for some reason (maybe it's locked or under maintenance), the program will skip that level using continue.
+
+*/
 package Practice;
 
 public class JumpingStatment {
