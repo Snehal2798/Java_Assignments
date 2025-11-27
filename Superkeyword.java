@@ -1,3 +1,16 @@
+/*
+- In a Hospital Management System, there is a base class called Person that holds basic information like:
+Name
+Age
+Then there's a subclass called Doctor that extends Person and adds more specific data:
+Specialization
+Hospital Name
+Now, the subclass Doctor needs to:
+Call the constructor of the Person class to initialize inherited data → super()
+Access/display the parent class variables or methods from the child class → super.variable or super.method()
+This is a classic use case for the super keyword.
+ */
+
 package Practice;
 
 import java.security.PublicKey;
